@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm End3r6</h1>
 <h3 align="center">A Game designer and fervent coder</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=end3r6&label=Profile%20views&color=0e75b6&style=flat" alt="end3r6" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=end3r6" alt="end3r6" /></a> </p>
+
 - 🔭 I’m currently working on **World's End Graphics Tools**
 
 - 💬 Ask me about **Unity shader development or c# coding**
 
 - ⚡ Fun fact **I need water to survve**
 
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
