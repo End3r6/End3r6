@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm End3r6</h1>
 <h3 align="center">A Game designer and fervent coder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=end3r6&label=Profile%20views&color=0e75b6&style=flat" alt="end3r6" /> </p>
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=end3r6&theme=monokai)](https://github.com/end3r6/github-profile-trophy)
 
 - 🔭 I’m currently working on **World's End Development Tools**
