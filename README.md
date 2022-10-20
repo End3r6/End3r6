@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Unity shader development or c# coding**
 
-- ⚡ Fun fact **I need water to survve**
+- ⚡ Fun fact **I need water to survive**
 
 <p align="left">
 </p>
