@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm End3r6</h1>
-<h3 align="center">A Game designer and fervent coder</h3>
+<h3 align="center">A Game designer and soccer payer... yeah, I do both 😏😉</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=end3r6&theme=monokai)](https://github.com/end3r6/github-profile-trophy)
 
