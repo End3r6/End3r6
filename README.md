@@ -9,6 +9,8 @@
 
 - ⚡ Fun fact **I need water to survive**
 
+- 🎮 Play my newest game here: https://end3r6.github.io/Armines/
+
 <p align="left">
 </p>
 
