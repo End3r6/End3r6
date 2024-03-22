@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm End3r6</h1>
 <h3 align="center">A man of many random skills... I like making tools for game dev I guess...</h3>
+<h3 align="center">Want to know more about me? Check out my website <a href="https://jd.swardson.com" target="_blank">here</a></h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=end3r6&theme=monokai)](https://github.com/end3r6/github-profile-trophy)
 
