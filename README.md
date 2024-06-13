@@ -4,6 +4,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=end3r6&theme=monokai)](https://github.com/end3r6/github-profile-trophy)
 
+![GitHub User's stars](https://img.shields.io/github/stars/end3r6)
+
 - 🔭 I’m currently working on **World's End Development Tools**
 
 - 💬 Ask me about **Unity shader development or c# coding**
