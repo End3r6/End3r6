@@ -6,9 +6,9 @@
 
 ![GitHub User's stars](https://img.shields.io/github/stars/end3r6)
 
-- 🔭 I’m currently working on **World's End Development Tools**
+- 🔭 I’m currently working on **Random Stuff...**
 
-- 💬 Ask me about **Unity shader development or c# coding**
+- 💬 Ask me about **Game Dev and Coding, I may know stuff**
 
 - ⚡ Fun fact **I need water to survive**
 
