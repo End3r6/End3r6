@@ -9,7 +9,7 @@ I like building games, tools, weird systems, and whatever else seems interesting
 </p>
 
 <p align="center">
-🌐 <a href="https://jd.swardson.com/?utm_source=github&utm_medium=profile&utm_campaign=portfolio">Website</a>
+🌐 <a href="https://jd.swardson.com/?utm_source=github&utm_medium=social&utm_campaign=portfolio">Website</a>
 </p>
 
 ---
